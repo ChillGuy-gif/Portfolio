@@ -32,7 +32,7 @@ export function Hero() {
               I specialize in building secure, scalable solutions for the modern web.
             </p>
             
-            {/* Stats Badges */}
+            <img src="https://c.tenor.com/2g9P6f8mYJcAAAAC/chill-guy.gif" alt="ChillGuy" className="w-32 h-32 rounded-lg" />
             <div className="flex flex-wrap gap-4 pt-2">
               <div className="flex items-center gap-2 px-4 py-3 bg-[#1A1A1A] border border-[#F1F1F1]/10 rounded-full">
                 <MapPin className="w-5 h-5 text-[#A259FF]" />
