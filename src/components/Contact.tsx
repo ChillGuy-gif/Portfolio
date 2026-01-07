@@ -49,7 +49,7 @@ export function Contact() {
                 <Linkedin className="w-8 h-8 text-[#FFD600] drop-shadow-[0_0_8px_rgba(255,214,0,0.6)]" />
               </div>
               <a
-                href="https://linkedin.com/in/alihabibhussein"
+                href="https://www.linkedin.com/in/alihabib-hussein-58749034a/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-xl text-[#F1F1F1] hover:text-[#FFD600] transition-colors"
